@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="cinema">
+    <output-path>$PROJECT_DIR$/out/artifacts/cinema</output-path>
+    <root id="archive" name="cinema.war" />
+  </artifact>
+</component>
